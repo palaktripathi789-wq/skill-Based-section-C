@@ -9,7 +9,7 @@ function App() {
     <Demo />
     </>
     
-  )
+  );
 }
 
-export default App
+export default App;
