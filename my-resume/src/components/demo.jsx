@@ -1,4 +1,5 @@
-function demo(){
+import './Demo.css'
+function Demo(){
     return(
         <>
         <h1>
@@ -12,4 +13,4 @@ function demo(){
         </>
     )
 }
-export default demo;
+export default Demo;
